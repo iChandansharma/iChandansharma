@@ -7,7 +7,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🌱 I’m a **Full Stack Web Developer**
+- 🌱 I’m a **Aspiring Full Stack Web Developer**
 
 - 👯 I’m looking to work as **Web Developer**
 
