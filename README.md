@@ -15,42 +15,36 @@
 
 - 📫 How to reach me **chandansharma984@gmail.com**
 
-## 🚀 Languages and Tools:
+## My Skills  
+<p>
+  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="css3" width="80" height="60"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="80" height="60"/>
 
-<p align="left">  
-     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />&nbsp;&nbsp;
-     <img src="https://img.shields.io/badge/HTML5%20-%23e34f26.svg?&style=for-the-badge&logo=html5&logoColor=white" />&nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/CSS3-1572B6?&style=for-the-badge&logo=css3&logoColor=white" />&nbsp;&nbsp;
-    
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="80" height="60"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="80" height="60"/>
+
 </p>
 
-<br/>
+<br>
 
-<p align="center">
-    <a href="https://github.com/iChandansharma/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Chandan's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Noobdev008&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
-</p>
+## My GitHub Stats
 
-## 📊 My Github Stats
-
-  <br/>
-    <a href="https://github.com/iChandansharma/github-readme-stats"><img alt="Chandan Sharma's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Noobdev008&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/iChandansharma/github-readme-stats"><img alt="Chandan Sharma's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Noobdev008&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+<!--  GitHub Stats   -->
+<img src = "https://github-readme-stats.vercel.app/api?username=iChandansharma&show_icons=true&theme=react&hide_border=true&bg_color=0F1000">
 
 
-<br/>
-<br/>
 
-<a href="https://github.com/iChandansharma/github-readme-activity-graph"><img alt="Chandan Sharma's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Noobdev008&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-
-<br/>
-<br/>
+<!--  Most Used Languages    -->
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=iChandansharma&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117">
 
 
-<br/>
+<!--  Streak Stats  -->
+<img src = "https://github-readme-streak-stats.herokuapp.com/?user=iChandansharma&theme=tokyonight&bg_color=0D1117">
+
+
+<!-- Contribution Graph -->
+<img src ="https://activity-graph.herokuapp.com/graph?username=iChandansharma&custom_title=Chandan%20Sharma%27s%20Contribution%20Graph&hide_border=true&theme=react-light">
 
 ## Connect with me:
 <p align="left">
