@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Chandan Sharma.
+### <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Chandan Sharma</h1>
 
 
 <!-- **iChandansharma/iChandansharma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
