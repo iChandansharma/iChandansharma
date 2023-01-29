@@ -2,7 +2,7 @@
 
 
 
-<h3 align="center">I'm a passionate learner of Full Stack Developement from Masai School.</h3>
+<h3 align="center">I'm a passionate learner of Full Stack Web Developement.</h3>
 
 
 ## 🙋‍♂️ About Me
